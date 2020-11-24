@@ -26,4 +26,4 @@ We can do the same for logistic regression, with the caveat that SciKit Learn do
 
 ![lasso_cat_2018](https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png)
 
-Some immediate findings are the clear importance of cellphone ownership and formal identification in determining access, both of which are prerequisites for having a mobile money account. The demographic characteristics are less clear, where the logistic regression drops minority religious and language groups as they are less helpful in predictions on the general population. The final regularized logistic regression model has a 90% accuracy rate when predicting out of sample.
+Some immediate findings are the clear importance of cellphone ownership and formal identification in determining access, both of which are prerequisites for having a mobile money account. The demographic characteristics are less clear, where the logistic regression drops some minority religious and language groups as they are less helpful in predictions on the general population. The final regularized logistic regression model has a 90% accuracy rate when predicting out of sample.
