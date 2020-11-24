@@ -12,7 +12,7 @@ We were interested in non-users as opposed to users in alignment with the theme 
 
 # Contents
 
-The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, exist on their own purely because they have long run times. These computationally expensive cells are indicated with comments.
+The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, exist on their own purely because they have long run times. These computationally expensive cells are indicated with comments. Since we are not trying to establish causal inference, we run a linear regression with a 
 
 **1.** Imports and Data Cleaning <br/>
 **2.** Linear Regression: Raw <br/>
@@ -26,9 +26,12 @@ The code is divided into cells. Some cells, particularly in the steps tuning the
 **9.** Logistic Regression: Recursive Feature Elimination <br/>
 **10.** Logistic Regression: Performance <br/>
 
-# Results
+# Key Results
 
-We plot bar graphs of the coefficient size on the categorical variables (continuous graph not shown here) for linear regression and their statistical significane.
+We can plot bar graphs of the coefficient size on the categorical variables for linear regression and their statistical significance. The continuous variables are not shown here for brevity. 
 
 
-We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance here.
+We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance.
+
+
+Some immediate findings are the clear importance of cellphone ownership and formal identification in determining access, both of which are prerequisites for having a mobile money account. The demographic characteristics are less clear, where the logistic regression drops minority religious and language groups as they are less helpful in predictions on the general population.
