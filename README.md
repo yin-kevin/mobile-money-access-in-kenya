@@ -27,6 +27,6 @@ We can plot bar graphs of the coefficient size on the categorical variables for 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" alt="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3" width="600"/>
 
-<img src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" alt="https://user-https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" alt="https://user-https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" width="730"/>
 
 Some immediate findings are the clear importance of cellphone ownership and formal identification in determining access, both of which are prerequisites for having a mobile money account. The demographic characteristics are less clear, where the logistic regression drops some minority religious and language groups as they are less helpful in predictions on the general population. The final regularized logistic regression model has a 90% accuracy rate when predicting out of sample.
