@@ -9,3 +9,7 @@ This is a Python coding sample for pre-doctoral applications in economics. The c
 We were interested in non-users as opposed to users in alignment with the theme of understanding minority populations that are left behind by social interventions. Our research on this topic is part of a broader initiative at the university called the
 [Reach Alliance](http://reachalliance.org/) at the [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/) which seeks to understand the ways we can get valuable services to these 'hardest-to-reach' groups. 
 
+
+# Contents
+
+(1)
