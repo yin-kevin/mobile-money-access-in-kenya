@@ -1,5 +1,8 @@
 # mobile-money-access-in-kenya
 
+
+<img src="https://user-images.githubusercontent.com/74945619/100048710-77764d80-2de3-11eb-9c6b-8255d914309d.png" alt="https://user-images.githubusercontent.com/74945619/100048710-77764d80-2de3-11eb-9c6b-8255d914309d" width="900"/>
+
 ![Reach+Alliance+logo](https://user-images.githubusercontent.com/74945619/100048710-77764d80-2de3-11eb-9c6b-8255d914309d.png)
 
 # Introduction
@@ -18,11 +21,9 @@ We are not trying to establish causal inference with this kind of data, however 
 
 # Results
 
-We can plot bar graphs of the coefficient size on the categorical variables for linear regression and their statistical significance. The continuous variables are not shown here for brevity. 
+We can plot bar graphs of the coefficient size on the categorical variables for linear regression and their statistical significance. The continuous variables are not shown here for brevity. We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance.
 
 <img src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" alt="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3" width="600"/>
-
-We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance.
 
 <img src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" alt="https://user-https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" width="750"/>
 
