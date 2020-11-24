@@ -14,7 +14,7 @@ We were interested in non-users as opposed to users in alignment with the theme 
 
 The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, exist on their own purely because they have long run times. These computationally expensive cells are indicated with comments. 
 
-Since we are not trying to establish causal inference, we simply want to make sure that we aren't ignoring any notable correlations. Thus we start with a large linear regression with as many controls as are feasible with the data and eliminate those that are not instructive. The logistic regression is trying to understand what features help for predictions; it is not being used to describe the real world. Thus we can balance the data by oversampling. We try two feature selection methods just to make sure the results are comparable. 
+We are not trying to establish causal inference with data of this quality, however we still want to make sure that we aren't ignoring any notable correlations. Thus we start with a large linear regression with as many controls as are feasible with the data and eliminate those that are not instructive. The logistic regression is for trying to understand what features help for predictions; it is not being used to describe the real world. Thus we can balance the data by oversampling. We try two feature selection methods just to make sure the results are comparable. 
 
 **1.** Imports and Data Cleaning <br/>
 **2.** Linear Regression: Raw <br/>
