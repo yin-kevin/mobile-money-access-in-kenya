@@ -20,7 +20,7 @@ We are not trying to establish causal inference with this kind of data, however 
 
 We can plot bar graphs of the coefficient size on the categorical variables for linear regression and their statistical significance. The continuous variables are not shown here for brevity. 
 
-<img src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" alt="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3" width="750" class="center"/>
+<img src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" alt="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3" width="500" class="center"/>
 
 We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance.
 
