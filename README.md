@@ -14,19 +14,9 @@ We were interested in non-users as opposed to users in alignment with the theme 
 
 The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, exist on their own purely because they have long run times. These computationally expensive cells are indicated with comments. 
 
-We are not trying to establish causal inference with data of this quality, however we still want to make sure that we aren't ignoring any notable correlations. Thus we start with a large linear regression with as many controls as are feasible with the data and eliminate those that are not instructive. The logistic regression is for trying to understand what features help for predictions; it is not being used to describe the real world. Thus we can balance the data by oversampling. We try two feature selection methods just to make sure the results are comparable. 
+We are not trying to establish causal inference with data of this quality, however we still want to make sure that we aren't ignoring any notable correlations. Thus we start with a large linear regression with as many controls as are feasible with the data and eliminate those that are not instructive. 
 
-**1.** Imports and Data Cleaning <br/>
-**2.** Linear Regression: Raw <br/>
-**3.** Linear Regression: 1st Edit <br/>
-**3.** Linear Regression: 2nd Edit <br/>
-**4.** Logistic Regression: Balance Data, Normalize <br/>
-**5.** Logistic Regression: Regularization Parameter <br/>
-**6.** Logistic Regression: Learning Curves <br/>
-**7.** Logistic Regression: Lasso Selection <br/>
-**8.** Logistic Regression: Plot Number of Features Against Accuracy <br/>
-**9.** Logistic Regression: Recursive Feature Elimination <br/>
-**10.** Logistic Regression: Performance <br/>
+The logistic regression is for trying to understand what features help for predictions; it is not being used to describe the real world. Thus we can balance the data by oversampling. We try two feature selection methods just to make sure the results are comparable. 
 
 # Key Results
 
