@@ -12,4 +12,9 @@ We were interested in non-users as opposed to users in alignment with the theme 
 
 # Contents
 
-(1)
+The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, exist on their own purely because they have long run times. These computationally expensive cells are indicated with comments.
+
+1. Imports, Data Cleaning
+2. Linear Regression: Raw
+3. Linear Regression: 1st Edit
+3. Linear Regression: 2nd Edit
