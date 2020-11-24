@@ -25,3 +25,10 @@ The code is divided into cells. Some cells, particularly in the steps tuning the
 **8.** Logistic Regression: Plot Number of Features Against Accuracy <br/>
 **9.** Logistic Regression: Recursive Feature Elimination <br/>
 **10.** Logistic Regression: Performance <br/>
+
+# Results
+
+We plot bar graphs of the coefficient size on the categorical variables (continuous graph not shown here) for linear regression and their statistical significane.
+
+
+We can do the same for logistic regression, with the caveat that SciKit Learn does not allow us to extract statistical significance here.
