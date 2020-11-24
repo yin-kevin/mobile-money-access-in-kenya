@@ -20,3 +20,8 @@ The code is divided into cells. Some cells, particularly in the steps tuning the
 **3.** Linear Regression: 2nd Edit <br/>
 **4.** Logistic Regression: Balance Data, Normalize <br/>
 **5.** Logistic Regression: Regularization Parameter <br/>
+**6.** Logistic Regression: Learning Curves <br/>
+**7.** Logistic Regression: Lasso Selection <br/>
+**8.** Logistic Regression: Plot Number of Features Against Accuracy <br/>
+**9.** Logistic Regression: Recursive Feature Elimination <br/>
+**10.** Logistic Regression: Performance <br/>
