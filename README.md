@@ -35,7 +35,7 @@ The full results will be in our upcoming published report. As a sample, we can p
        src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" 
        alt="Linear Regression Coefficients" 
        width="600"
-       margin-left: 500px/>
+       style="float: left; margin-right: 10px;"/>
 
 <img id="log_coef" src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" alt="Logistic Regression Coefficients" width="730"/>
 
