@@ -32,7 +32,7 @@ The full results will be in our upcoming published report. As a sample, we can p
 
 <p align="center">
   <img id="lin_coef" src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" alt="Linear Regression Coefficients" width="600"/>
-  #lin_coef img {
+  img[src*="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png"] {
   margin-left: 500px;
   }
 
