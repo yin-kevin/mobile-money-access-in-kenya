@@ -14,7 +14,7 @@ We were interested in non-users as opposed to users in alignment with the theme 
 [Reach Alliance](http://reachalliance.org/) at the [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/) which seeks to understand the ways we can get valuable services to these 'hardest-to-reach' groups. 
 
 
-<p float="middle">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74945619/104352088-77312f00-54c3-11eb-9697-81355fa61d05.png" alt="https://user-images.githubusercontent.com/74945619/104352088-77312f00-54c3-11eb-9697-81355fa61d05.png" width="400"/>
   <img src="https://user-images.githubusercontent.com/74945619/104352471-f6266780-54c3-11eb-8539-033951317ed1.png" alt="https://user-images.githubusercontent.com/74945619/104352471-f6266780-54c3-11eb-8539-033951317ed1.png" width="400"/>
 </p>
