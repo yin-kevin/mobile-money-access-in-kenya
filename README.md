@@ -14,6 +14,10 @@ We were interested in non-users as opposed to users in alignment with the theme 
 [Reach Alliance](http://reachalliance.org/) at the [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/) which seeks to understand the ways we can get valuable services to these 'hardest-to-reach' groups. 
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74945619/104351941-48b35400-54c3-11eb-991c-e347473b8632.png" alt="https://user-images.githubusercontent.com/74945619/104351941-48b35400-54c3-11eb-991c-e347473b8632.png" width="600"/>
+
+
 # Contents
 
 The code is divided into cells. Some cells, particularly in the steps tuning the hyperparameters for logistic regression, are seperate because they have long run times. These computationally expensive cells are indicated with comments. 
