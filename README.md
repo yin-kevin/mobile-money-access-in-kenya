@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74945619/100048710-77764d80-2de3-11eb-9c6b-8255d914309d.png" alt="Reach Logo" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74945619/100048710-77764d80-2de3-11eb-9c6b-8255d914309d.png" 
+       alt="Reach Logo" 
+       width="700"/>
 </p>
 
 
@@ -15,8 +17,12 @@ We were interested in non-users as opposed to users in alignment with the theme 
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74945619/104352088-77312f00-54c3-11eb-9697-81355fa61d05.png" alt="County Map" width="400"/>
-  <img src="https://user-images.githubusercontent.com/74945619/104352471-f6266780-54c3-11eb-8539-033951317ed1.png" alt="Data Map" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74945619/104352088-77312f00-54c3-11eb-9697-81355fa61d05.png" 
+       alt="County Map" 
+       width="400"/>
+  <img src="https://user-images.githubusercontent.com/74945619/104352471-f6266780-54c3-11eb-8539-033951317ed1.png" 
+       alt="Data Map" 
+       width="400"/>
 </p>
   
 
@@ -34,9 +40,10 @@ The full results will be in our upcoming published report. As a sample, we can p
   <img id="lin_coef" 
        src="https://user-images.githubusercontent.com/74945619/100051159-33864700-2de9-11eb-9e1f-bb4816906aa3.png" 
        alt="Linear Regression Coefficients" 
-       width="600"
-       style="float: left; margin-right: 10px;"/>
-
-<img id="log_coef" src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" alt="Logistic Regression Coefficients" width="730"/>
+       width="600"/>
+  <img id="log_coef" 
+       src="https://user-images.githubusercontent.com/74945619/100051185-43059000-2de9-11eb-88f7-837115f997f9.png" 
+       alt="Logistic Regression Coefficients" 
+       width="730"/>
 
 Some immediate findings are that a lack of cellphone ownership and formal identification are clear barriers, both of which are prerequisites for having a mobile money account. The demographic characteristics are less clear, where the logistic regression drops some minority religious and language groups as they are less helpful in predictions on the general population. The final regularized logistic regression model has a 90% accuracy rate when predicting out of sample.
